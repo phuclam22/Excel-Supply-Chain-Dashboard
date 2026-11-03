@@ -2,7 +2,7 @@
 
 A comprehensive, data-driven Excel dashboard designed to optimize procurement operations, monitor vendor performance, and prevent capital stagnation in retail inventory.
 
-![Dashboard Overview](https://i.postimg.cc/2YKx4W4L/Screenshot-2026-11-03-112656.png)
+<img width="1125" height="543" alt="Screenshot 2026-11-03 112656" src="https://github.com/user-attachments/assets/b39f7126-c480-417a-b449-af2abaf408da" />
 
 ## Project Objective
 In the fast-paced Retail and FMCG sectors, balancing stock availability with capital liquidity is a critical challenge. This project aims to build an end-to-end automated reporting system entirely within **Microsoft Excel**, bypassing the need for expensive BI tools. 
